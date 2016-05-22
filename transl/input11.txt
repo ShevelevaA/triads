@@ -1,0 +1,22 @@
+int fgfdd;
+double hgh=7867, uytytf;
+void uugjg(double fgfghfg, int gfgf){
+int gfgdfhjh;
+double ygttf=8786; 	
+//kjkl=ytuy+(ftf+7)*(gyfgf<hhgjg);
+switch(ijj){
+case ghgh:{} break;
+case 7: ghgfg=jhjh; break;
+}
+
+}
+int main() {uytuy(+(ftf+7)*(gyfgf<hhgjg)-90>=7,tyt6ty);
+int gfgdfhjh;
+double ygttf=8786; 		
+switch(ijj){
+case ghgh:{} break;
+case 7: ghgfg=jhjh; break;
+default: {kjkhjh(jhjh);} break;
+}
+
+}
