@@ -1,16 +1,6 @@
-﻿Сборка начата 23.05.2016 3:37:07.
+﻿Сборка начата 23.05.2016 16:49:10.
      1>Проект "C:\Users\lena\Desktop\триады\transl\transl\transl.vcxproj" в узле 2 (целевые объекты Build).
-     1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\transl.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt diagram.cpp
-         diagram.cpp
-     1>c:\users\lena\desktop\триады\transl\transl\diagram.cpp(79): warning C4101: uk1: неиспользованная локальная переменная
-     1>c:\users\lena\desktop\триады\transl\transl\diagram.cpp(666): warning C4101: l1: неиспользованная локальная переменная
-     1>c:\users\lena\desktop\триады\transl\transl\diagram.cpp(667): warning C4101: uk2: неиспользованная локальная переменная
-     1>c:\users\lena\desktop\триады\transl\transl\diagram.cpp(667): warning C4101: t1: неиспользованная локальная переменная
-     1>c:\users\lena\desktop\триады\transl\transl\diagram.cpp(1001): warning C4101: f: неиспользованная локальная переменная
-     1>c:\users\lena\desktop\триады\transl\transl\diagram.cpp(1176): warning C4800: int: принудительно задано логическое значение "true" или "false" (предупреждение о производительности)
-     1>c:\users\lena\desktop\триады\transl\transl\diagram.cpp(742): warning C4715: TDiagram::ElemVyrazh: значение возвращается не при всех путях выполнения
-       Link:
+     1>Link:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lena\Desktop\триады\transl\Debug\transl.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\lena\Desktop\триады\transl\Debug\transl.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\lena\Desktop\триады\transl\Debug\transl.lib" /MACHINE:X86 Debug\diagram.obj
          Debug\scaner.obj
          Debug\stdafx.obj
@@ -21,4 +11,4 @@
 
 Сборка успешно завершена.
 
-Затраченное время: 00:00:02.20
+Затраченное время: 00:00:00.51

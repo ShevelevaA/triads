@@ -1,0 +1,24 @@
+void fun1 (int m, int n, int g)
+{
+	int y = 2;
+ y = 3+m;	
+}
+
+
+double a = 7;
+
+void main()
+{
+int r = 5/2 + 4-3;
+int v;
+{int b = 7;}
+double c = r+ 1.5e+308;
+c = c + 0.2e+308;
+fun1(3,5,4);
+switch(5+3){
+case 1: c = 3 + 2; break;
+case 3: r = 0; break;
+default: r=7; break;
+}
+r = 4;
+}
